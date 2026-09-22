@@ -1,8 +1,8 @@
 {
-  "equipo": "G00",
+  "equipo": "G14",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Rodolfo Lara", "codigo": "202510515" },
+    { "nombre": "Adrian Gamboa", "codigo": "202310652" },
+    { "nombre": "Nicolás Lara", "codigo": "202520149" }
   ]
 }
